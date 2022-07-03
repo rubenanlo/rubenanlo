@@ -11,7 +11,7 @@ Looking forward to hearing from any you!
 ## Where to find me 📍
 
 - [ ] Working on my [profesional website]
-- [ ] Building my brand on [Linkedin](https://www.linkedin.com/in/rubenandino/)
+- [x] Building my brand on [Linkedin](https://www.linkedin.com/in/rubenandino/)
 
 ## Some of my projects include 👾
 
