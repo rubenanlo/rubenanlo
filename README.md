@@ -2,7 +2,7 @@
 
 ## Introduction 🤓
 
-After over 10 years of supporting multinational enterprises to determine the appropriate pricing between their related entities, I am becoming a full stack web developer with knowledge on HTML, CSS, Javascript, react, mongodb, among other related tools. Curious by nature and avid long time learner. I am looking for the next step in my career and ready to apply my technical and soft skills to a job that really matters.
+After over 10 years supporting multinational enterprises to determine the appropriate pricing between their related entities, I am becoming a full stack web developer with knowledge on HTML, CSS, Javascript, react, mongodb, among other related tools. Curious by nature and avid long time learner. I am looking for the next step in my career and ready to apply my technical and soft skills to a job that really matters.
 
 If you want to learn more about me, write an email, check my website or my other social profiles 👇 
 
