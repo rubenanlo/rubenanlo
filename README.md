@@ -2,9 +2,9 @@
 
 ## Introduction 🤓
 
-After over 10 years supporting multinational enterprises to determine the appropriate pricing between their related entities, I am becoming a full stack web developer with knowledge on HTML, CSS, Javascript, react, mongodb, among other related tools. Curious by nature and avid learner. I am looking for the next step in my career and ready to apply my technical and soft skills to a job that really matters.
+I am a fullstack developer with over 10 years of experience in tax and finance fields. Throughout my professional experience, I have had the chance to focus on automating process through existing platforms such as excel and alteryzx as well as having direct contact with global clietns and managing global teams.  I have become a full stack web developer with knowledge on HTML, CSS, Javascript, react, mongodb, node.js mainly. Curious by nature and avid learner. I am looking for the next step in my career and ready to apply my technical and soft skills to a job related to web development.
 
-If you want to learn more about me, write an email, check my website or my other social profiles 👇 
+If you want to learn more about me, check my website or my other social profiles 👇 
 
 Looking forward to hearing from any you!
 
@@ -16,8 +16,10 @@ Looking forward to hearing from any you!
 ## Some of my projects include 👾
 
 - [x] [Tick tock diaper](https://github.com/rubenanlo/tick-tock-diaper)
-- [ ] Project 2
-- [ ] Project 3
+- [x] [GuiHub](https://github.com/rubenanlo/guithub)
+- [x] [PlanThatMeal frontend](https://github.com/rubenanlo/plan-that-meal-client)
+- [x] [PlanThatMeal backend](https://github.com/rubenanlo/plan-that-meal-server)
+
 
 ## What can I speak? 📚
 
