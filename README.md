@@ -15,10 +15,13 @@ Looking forward to hearing from any you!
 
 ## Some of my projects include 👾
 
-- [x] [Tick tock diaper](https://github.com/rubenanlo/tick-tock-diaper)
-- [x] [GuiHub](https://github.com/rubenanlo/guithub)
-- [x] [PlanThatMeal frontend](https://github.com/rubenanlo/plan-that-meal-client)
-- [x] [PlanThatMeal backend](https://github.com/rubenanlo/plan-that-meal-server)
+Each of the following projects was done in a week
+
+- [x] Project; [Tick tock diaper](https://github.com/rubenanlo/tick-tock-diaper)
+- [x] [Project: GuiHub](https://github.com/rubenanlo/guithub)
+- [x] Project: PlanThatMeal:
+    - [x] [PlanThatMeal frontend](https://github.com/rubenanlo/plan-that-meal-client)
+    - [x] [PlanThatMeal backend](https://github.com/rubenanlo/plan-that-meal-server)
 
 
 ## What can I speak? 📚
