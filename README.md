@@ -4,7 +4,7 @@
 
 Javascript (ES6), MongoDB, Express, React, NextJS, NodeJS (MERN), HTML5, CSS3, Git
 
-Soft skills:
+## Soft skills:
 Project management, team player, business focus, public speaking, client/user focus
 
 ## Introduction 🤓
