@@ -9,9 +9,7 @@ Project management, team player, business focus, public speaking, client/user fo
 
 ## Introduction 🤓
 
-I am a full stack web developer 
-
-with over 10 years of project management experience in tax and finance fields. Throughout my professional experience, I have had the opportunity to improve processes, through direct contact with clients and other stakeholders, managing global teams,  designing automation tools and mentoring and training junior and senior staff. As a web developer, I am looking forward to developing tailored web applications to positively impact businesses' performance.
+I am a full stack web developer with a special focus on NextJs, Tailwind and material UI. Prior to becoming a web developer in 2022, I worked as a consultant in big organizations. My previous experience allows me to make the link between the business and the development of web applications, which helps in improving the user experience and aligning my work with the focus of business. 
 
 Curious by nature and avid learner. I am looking for the next step in my career and ready to apply my technical and soft skills to a job related to web development.
 
